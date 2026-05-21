@@ -3,11 +3,11 @@
 </p>
 <h1 align="center">I'm Sujit Ashok Phadtare</h1>
 
-- 📫 How to reach me **sujitphadtare98@gmail.com**
+- 📫 How to reach me **sujitphadtare01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sujit-ashok-phadtare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujit-ashok-phadtare" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sujit-phadtare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujit-ashok-phadtare" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sujitphadtare01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sujitphadtare01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sujitphadtare01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujitphadtare01" height="30" width="40" /></a>
 </p>
